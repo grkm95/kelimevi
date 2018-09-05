@@ -1,7 +1,7 @@
 # kelimevi
 <center>HTML&CSS , PHP , JavaScript ve AJAX kullanarak yapmış olduğum okul projesi
 
-<a href="https://github.com/grkm95/kelimevi.git">Download This Project</a>
+<a href="https://github.com/grkm95/kelimevi/archive/master.zip">Download This Project</a>
 
   <p>LinkedIn : www.linkedin.com/in/gorkemaslan/</p>
 <br/>
