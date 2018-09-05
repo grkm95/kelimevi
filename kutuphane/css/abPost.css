@@ -1,0 +1,20 @@
+
+.ab-Iletisim{width: 464px; height:460px;}
+    .ab-Form-Eklenti{ width: 464px;  background-color:#F6B881; padding: 10px; border-top:0px solid #959595;  position: relative; }
+        .ab-Form-Eklenti ul{width: 424px; padding:0 20px; margin: 0;}
+            .ab-Form-Eklenti ul li{overflow: hidden;}
+                .ab-Form-Eklenti ul li h1{color:#F8F8F8; font-family: 'Arial','Helvetica',sans-serif; padding: 12px 0 8px 0; margin: 0; font-size: 22px; line-height: 120%; display: block;}
+                .ab-Form-Eklenti ul li p{color:#B3ADA1; font-family: 'Georgia','Arial',sans-serif; font-size: 13px; line-height: 21px; font-style: italic; display: block; margin:0 0 7px 0;}
+                .ab-Form-Eklenti ul li a{color:#fff; font-family: 'Georgia','Arial',sans-serif; font-size: 13px; line-height: 21px; font-style: italic; margin:0 0 7px 0; padding: 5px;}
+                .ab-Form-Eklenti ul li a:hover{color:#cd1821;}
+                .ab-Form-Eklenti ul li label{width: 600px; overflow: hidden; color:#B3ADA1; font-family: 'Arial','Helvetica',sans-serif;  font-size: 11px; line-height: 120%; display: block; float:left;}
+                .ab-Form-Eklenti ul li label span{font-weight: bold; padding-bottom: 3px; display: block;}
+                .ab-Form-Eklenti ul li input, .ab-Form-Eklenti ul li textarea{width: 306px; height:13px; background: url(../resim/inputArkaPlan.gif) 0 0 no-repeat; border:0; color:#959595; font-family: 'Arial','Helvetica',sans-serif;  font-size: 11px; line-height: 13px; padding: 10px 9px; display: block; margin-bottom: 23px;}
+                .ab-Form-Eklenti ul li input:focus{background: url(../resim/inputArkaPlan.gif) -324px 0 no-repeat}
+                .ab-Form-Eklenti ul li textarea{width: 306px; background: #FFFFFF; border-radius: 2px 2px 2px 2px; height: 150px; margin-bottom: 10px; resize:none;}
+                .ab-Form-Eklenti ul li input.gonder{width: 65px; height: 31px;line-height: 31px; padding: 0; margin: 0;background: url(../resim/butonGonder.png) left top no-repeat;  margin-bottom: 12px;}
+                .ab-Form-Eklenti ul li input.gonder:hover{background: url(../resim/butonGonderHover.png) left top no-repeat;}
+                    .yukleniyor{width: 70px; height: 70px; margin: 20px auto 0 auto;}
+    .ab-kapat{ position: absolute; top:-20px; right: -20px;}
+                    
+                    

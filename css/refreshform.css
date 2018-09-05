@@ -1,0 +1,49 @@
+@import url(http://fonts.googleapis.com/css?family=Fauna+One|Muli);
+#form{
+    background-color:#f9d1b0;
+    color:#123456;	
+    box-shadow:0px 1px 1px 1px #123456;
+    font-Weight:400px;
+    width:337px;	
+    margin:center;
+    height:233px;
+	position:absolute;
+}
+#form div{
+    padding:5px 5 5 50px;
+}
+h3{ 
+    margin-top:0px;
+    color:#11333f;
+    background-color:#f6b881;
+    text-align:center;
+    width:100%;
+    height:50px;
+    padding-top:30px;
+}
+#mainform{
+    width:560px;
+    margin:10px auto;
+	padding:auto;
+    padding-top:20px;
+	padding-left:230px;
+    font-family: 'Fauna One', serif;
+	position:right;
+}
+input{
+    width:90%;
+    height:50px;
+    margin-top:10px;
+    border-radius:3px;
+    padding:2px;
+    box-shadow:0px 1px 1px 0px #123456;
+}	
+
+input[type=button]{
+    background-color:#3C599B;
+    border:1px solid white;
+    font-family: 'Fauna One', serif;
+    font-Weight:bold;
+    font-size:18px;
+    color:white;
+}
